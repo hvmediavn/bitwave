@@ -46,7 +46,7 @@
     "video.js": "npm:@bitwave/video.js@^7.8.5",
     "videojs-contrib-dash": "^2.11.0",
     "videojs-contrib-quality-levels": "^2.0.9",
-    "videojs-hls-quality-selector": "^1.1.1",
+    "videojs-hls-quality-selector": "^1.1.4",
     "vue-chartjs": "^3.5.0",
     "vue-clipboard2": "^0.3.1",
     "vue-virtual-scroller": "^1.0.0-rc.2"
